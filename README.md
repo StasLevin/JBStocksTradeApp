@@ -1,4 +1,0 @@
-JBStocksTradeApp
-================
-
-JB iOS Project
